@@ -1,3 +1,4 @@
 == IE7 ==
 Offset in the 480+ menu
 Offset in the footer
+# This line has been added to demonstrate the usage of the "git pull" command
