@@ -4,3 +4,4 @@ Offset in the footer
 # This line has been added to demonstrate the usage of the "git pull" command
 # This line has been added to demonstrate the usage of the "git push" command
 # This line has been added to demonstrate the usage of the SSH protocol
+# SSH Communication based on password
